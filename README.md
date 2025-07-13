@@ -1,7 +1,7 @@
 # 🌐 WebForge
 
 **WebForge** is a blazing-fast command-line tool to deploy static websites directly to AWS S3.  
-Ideal for launching portfolios, mini-projects, landing pages, or demos — without needing complex DevOps pipelines.
+Ideal for launching portfolios, mini-projects, landing pages, or demos with a single command.
 
 ---
 
